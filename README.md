@@ -44,8 +44,8 @@ if player chose back to menu restart this process.
 - JavaScript (ES6)
 
 ### 🔗 Links
-- [Play MathRush live](https://abbe-98.github.io/Webb-Utveckling-Lab-1/)
-- [Source code on GitHub](https://github.com/Abbe-98/Webb-Utveckling-Lab-1)
+- [Play MathRush live](https://abbe-98.github.io/MathRush/)
+- [Source code on GitHub](https://github.com/Abbe-98/MathRush)
 
 ---
 
